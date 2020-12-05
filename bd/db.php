@@ -3,9 +3,9 @@
 
 
 $conn = mysqli_connect(
-'localhost',
-'root',
-'',
-'bdlafuente'
+'xQmB74o2rH',
+'remotemysql.com',
+'gTmLQVnTpK',
+'xQmB74o2rH'
 );
 ?>
