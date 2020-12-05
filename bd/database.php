@@ -8,10 +8,10 @@ class Database {
     private $charset;
 
     public function __construct(){
-        $this->host     = 'localhost';
-        $this->db       = 'bdlafuente';
-        $this->user     = 'root';
-        $this->password = "";
+        $this->host     = 'remotemysql.com';
+        $this->db       = 'xQmB74o2rH';
+        $this->user     = 'xQmB74o2rH';
+        $this->password = "gTmLQVnTpK";
         $this->charset = 'utf8mb4';
 
     }
